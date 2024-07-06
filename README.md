@@ -1,3 +1,4 @@
+![logo](https://github.com/rijulbhatt/rijulbhatt/blob/main/Github%20Banner.png)
 <h1 align="center">Hi ! I'm Rijul Bhatt</h1>
 <h3 align="center">A passionate learner from India</h3>
 
